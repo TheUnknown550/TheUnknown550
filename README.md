@@ -43,20 +43,6 @@ I'm a **3rd-year Information Systems & Networking Engineering (ISNE)** student a
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 🏆 Major Achievements
-
-### 🌍 Global Recognition
-- **🥈 Microsoft Imagine Cup 2023** - World Runner-up (Global Final)
-- **🏆 Intel AI Global Impact Festival 2022** - Global Award Winner
-- **🔬 Regeneron ISEF 2023** - World Finalist (1,600+ global participants)
-- **🏅 Asia Pacific ICT Alliance Awards (APICTA) 2022** - Award Recipient
-
-### 🇹🇭 National Excellence
-- **🥇 Prime Minister's Science Project Award 2022** - First Place (Applied Science) + Best Communication
-- **🥇 Thailand Young Scientist Festival (TYSF) 2022** - Gold Medalist
-- **🏆 Thailand ICT Awards (TICTA) 2022** - Winner
-- **🚀 INTERLINK Cabling Contest 2024** - National Finalist
-
 ## 💡 Featured Projects
 
 ### 🫀 CS-M Tool - Cardiac Self-Monitoring System
