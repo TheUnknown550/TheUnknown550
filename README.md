@@ -4,7 +4,7 @@
   
 [![Portfolio](https://img.shields.io/badge/Portfolio-mattcosh.com-blue?style=for-the-badge&logo=safari&logoColor=white)](https://mattcosh.com)
 [![GitHub followers](https://img.shields.io/github/followers/TheUnknown550?style=for-the-badge&logo=github)](https://github.com/TheUnknown550)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/matt-cosh)
 
 </div>
 
