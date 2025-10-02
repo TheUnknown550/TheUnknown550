@@ -83,27 +83,12 @@ I'm a **3rd-year Information Systems & Networking Engineering (ISNE)** student a
 
 </div>
 
-## 🌟 Professional Experience
-
-### 🏢 Technology and Innovation Learning Center (TLIC)
-**IoT & Project Management Intern** | *April 2025 - June 2025*
-- Led development of IoT monitoring systems for Active Learning Studios
-- Managed 3 major IoT projects with enterprise clients
-- Specialized in Raspberry Pi, Home Assistant, and automation systems
-
-### 🎓 Chiang Mai University
-**Teaching Assistant** | *2024 - Present*
-- Calculus II, Computer Algorithm Lab, and ISNE Lab
-- Mentored 80+ students across multiple courses
-- Developed supplementary learning materials and peer-learning strategies
-
 ## 🎯 Current Focus
 
-- 🤖 Developing advanced AI solutions for healthcare and finance
+- 🤖 Developing advanced AI solutions
 - 🌐 Building scalable web applications with modern frameworks  
 - 🔬 Researching computer vision and neural network applications
 - 📚 Contributing to open-source projects and educational content
-- 🏆 Preparing for upcoming international competitions
 
 ## 📫 Let's Connect!
 
@@ -111,7 +96,7 @@ I'm always excited to collaborate on innovative projects, especially those invol
 
 - 🌐 **Portfolio**: [mattcosh.com](https://mattcosh.com)
 - 📧 **Email**: [your-email@example.com](mailto:your-email@example.com)
-- 💼 **LinkedIn**: [Connect with me](https://linkedin.com/in/yourprofile)
+- 💼 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/matt-cosh)
 - 🐦 **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
 
 ---
