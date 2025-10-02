@@ -12,12 +12,6 @@
 
 I'm a **3rd-year Information Systems & Networking Engineering (ISNE)** student at **Chiang Mai University** with a passion for **AI innovation** and **global impact**. At just 20 years old, I've already made waves on the international stage, winning global competitions and developing award-winning healthcare technology.
 
-- 🏆 **Microsoft Imagine Cup 2023** - World Runner-up
-- 🌟 **Intel AI Global Impact Festival 2022** - Global Award Winner  
-- 🔬 **Regeneron ISEF 2023** - World Finalist
-- 💡 Currently developing AI-powered solutions and contributing to open-source projects
-- 🎓 GPA: **3.83/4.0** | Teaching Assistant for Calculus II & Algorithm Labs
-
 ## 🛠️ Tech Stack
 
 ### Languages & Frameworks
