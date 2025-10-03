@@ -10,10 +10,10 @@
 
 ## 🚀 About Me
 
-💡 Passionate about AI, IoT, and software engineering
-⚙️ Interested in machine learning, full-stack development, and automation
-📌 Skills: Python | Java | C++ | React Native | Unity | Git | Docker
-✨ Always exploring ways to turn ideas into scalable solutions
+💡 Passionate about **AI, IoT, and software engineering**  
+⚙️ Interested in **machine learning, full-stack development, and automation**  
+📌 Skills: `Python` | `Java` | `C++` | `React Native` | `Unity` | `Git` | `Docker`  
+✨ Always exploring ways to turn ideas into scalable solutions  
 
 ## 🛠️ Tech Stack
 
