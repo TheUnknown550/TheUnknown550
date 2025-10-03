@@ -10,7 +10,10 @@
 
 ## 🚀 About Me
 
-I'm a **3rd-year Information Systems & Networking Engineering (ISNE)** student at **Chiang Mai University** with a passion for **AI innovation** and **global impact**. At just 20 years old, I've already made waves on the international stage, winning global competitions and developing award-winning healthcare technology.
+💡 Passionate about AI, IoT, and software engineering
+⚙️ Interested in machine learning, full-stack development, and automation
+📌 Skills: Python | Java | C++ | React Native | Unity | Git | Docker
+✨ Always exploring ways to turn ideas into scalable solutions
 
 ## 🛠️ Tech Stack
 
