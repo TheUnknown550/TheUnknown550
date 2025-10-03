@@ -51,14 +51,14 @@
 
 ## 🎯 Current Focus
 
-- 🤖 Developing advanced AI solutions
-- 🌐 Building scalable web applications with modern frameworks  
-- 🔬 Researching computer vision and neural network applications
-- 📚 Contributing to open-source projects and educational content
+- 🤖 Pushing the boundaries of AI and machine learning systems
+- 🌐 Engineering scalable architectures and cutting-edge applications  
+- 🔬 Experimenting with computer vision, neural networks, and automation
+- 🛠️ Building tools and contributing to the open-source ecosystem
 
 ## 📫 Let's Connect!
 
-I'm always excited to collaborate on innovative projects, especially those involving **AI for social good**, **healthcare technology**, or **educational initiatives**.
+Always down to collaborate on ambitious tech projects—whether it's **AI research**, **full-stack development**, **IoT systems**, or **game development**. Let's build something awesome.
 
 - 🌐 **Portfolio**: [mattcosh.com](https://mattcosh.com)
 - 📧 **Email**: [mattcosh06@gmail.com](mailto:mattcosh06@gmail.com)
@@ -68,7 +68,7 @@ I'm always excited to collaborate on innovative projects, especially those invol
 
 <div align="center">
 
-### 💭 *"Innovation is not just about technology—it's about creating meaningful impact for humanity."*
+### 💭 *"Building the future, one line of code at a time."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TheUnknown550&style=flat-square&color=blue)
 
