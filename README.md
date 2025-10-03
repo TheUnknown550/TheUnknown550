@@ -34,34 +34,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 💡 Featured Projects
-
-### 🫀 CS-M Tool - Cardiac Self-Monitoring System
-*Revolutionary AI-powered heart disease detection system*
-
-- **Impact**: Addresses cardiovascular disease affecting 655M+ people globally
-- **Tech**: React Native, Python, Neural Networks, Signal Processing
-- **Achievement**: 94.7% accuracy in cardiac abnormality detection
-- **Recognition**: Featured across multiple international competitions
-
-[![Imagine Cup](https://img.shields.io/badge/Microsoft-Imagine%20Cup%20Finalist-blue?style=flat-square)](https://imaginecup.microsoft.com/en-us/Team/1fe3d065-3b95-4239-b2eb-675cd26aaa89)
-[![ISEF](https://img.shields.io/badge/Regeneron-ISEF%20Finalist-green?style=flat-square)](https://isef.net/project/enbm063t-cs-m-cardiac-self-monitoring-tool)
-
-### 🤖 AI Trading System
-*Advanced machine learning system for financial market analysis*
-
-- **Models**: 22 AI models for stocks, crypto, and forex
-- **Performance**: 52.1% average accuracy with robust risk management
-- **Features**: Real-time monitoring, automated trading cycles, comprehensive logging
-- **Tech Stack**: Python, scikit-learn, pandas, financial APIs
-
-### 🎮 MCXStudios24
-*Independent game development studio*
-
-- **Platform**: Roblox games and mobile applications
-- **Role**: Founder & Lead Developer
-- **Focus**: Creative game mechanics and community building
-
 ## 📈 GitHub Stats
 
 <div align="center">
