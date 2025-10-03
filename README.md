@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Matt Tanthai Cosh
+# 👋 Hi, I'm Matt Cosh
 
 <div align="center">
   
