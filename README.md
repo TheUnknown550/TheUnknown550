@@ -25,12 +25,6 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### AI & Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-
 ### Hardware & IoT
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
@@ -72,11 +66,14 @@
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheUnknown550&show_icons=true&theme=tokyonight&count_private=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheUnknown550&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheUnknown550&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheUnknown550&layout=compact&theme=tokyonight)
+</div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheUnknown550&theme=tokyonight)
+<div align="center">
+  
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=TheUnknown550&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
