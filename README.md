@@ -61,9 +61,8 @@
 I'm always excited to collaborate on innovative projects, especially those involving **AI for social good**, **healthcare technology**, or **educational initiatives**.
 
 - 🌐 **Portfolio**: [mattcosh.com](https://mattcosh.com)
-- 📧 **Email**: [your-email@example.com](mailto:your-email@example.com)
+- 📧 **Email**: [mattcosh06@gmail.com](mailto:mattcosh06@gmail.com)
 - 💼 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/matt-cosh)
-- 🐦 **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
 
 ---
 
