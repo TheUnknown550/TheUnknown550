@@ -12,7 +12,7 @@
 
 💡 Passionate about **AI, IoT, and software engineering**  
 ⚙️ Interested in **machine learning, full-stack development, and automation**  
-📌 Skills: `Python` | `Java` | `C++` | `Unity` | `Git`
+📌 Skills: `Python` | `Java` | `C++` | `Unity` | `Git`**
 ✨ Always exploring ways to turn ideas into scalable solutions  
 
 ## 🛠️ Tech Stack
